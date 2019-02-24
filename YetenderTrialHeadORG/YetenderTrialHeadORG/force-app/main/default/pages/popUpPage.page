@@ -1,0 +1,6 @@
+<apex:page >
+    <script>
+    window.open('https://www.google.com/', '_blank','height=100,width=200');
+    </script>
+    
+</apex:page>
